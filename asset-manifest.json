@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/inf-proyec/static/css/main.2cd18582.css",
+    "main.js": "/inf-proyec/static/js/main.01e5f757.js",
+    "static/js/787.9d02027e.chunk.js": "/inf-proyec/static/js/787.9d02027e.chunk.js",
+    "static/media/erick.jpg": "/inf-proyec/static/media/erick.39a37710ca3e4c64a912.jpg",
+    "static/media/video.mp4": "/inf-proyec/static/media/video.a3280c558e22b82c52a0.mp4",
+    "static/media/carusel1.jpeg": "/inf-proyec/static/media/carusel1.02e20f8df7412a9c76bd.jpeg",
+    "static/media/error.png": "/inf-proyec/static/media/error.8533c7fb2095a054872b.png",
+    "static/media/carusel3.jpeg": "/inf-proyec/static/media/carusel3.8e45987c8eb2b7e8fd2a.jpeg",
+    "static/media/carusel2.jpeg": "/inf-proyec/static/media/carusel2.7616c04d7c328d02de72.jpeg",
+    "static/media/GraceHopper.jpeg": "/inf-proyec/static/media/GraceHopper.23c8220e5a951ddcd611.jpeg",
+    "static/media/AdaLovelace.jpeg": "/inf-proyec/static/media/AdaLovelace.51463c6c0ae9eebaf3a7.jpeg",
+    "static/media/TimBerners.jpeg": "/inf-proyec/static/media/TimBerners.a5e56d113124710b8d9c.jpeg",
+    "static/media/GuidoVanRossum.jpeg": "/inf-proyec/static/media/GuidoVanRossum.24c201acd7a0d2ffe28e.jpeg",
+    "static/media/logo.svg": "/inf-proyec/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/inf-proyec/index.html",
+    "main.2cd18582.css.map": "/inf-proyec/static/css/main.2cd18582.css.map",
+    "main.01e5f757.js.map": "/inf-proyec/static/js/main.01e5f757.js.map",
+    "787.9d02027e.chunk.js.map": "/inf-proyec/static/js/787.9d02027e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cd18582.css",
+    "static/js/main.01e5f757.js"
+  ]
+}
